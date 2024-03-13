@@ -4,7 +4,7 @@
 <img style="display:block;margin:auto" src="logo.jpg" alt="drawing" width="200"/>
 
 <div align="center">
-    <img src="logo.jpg">
+    <img src="logo.jpg" alt="drawing" width="200"/>
 </div>
 
 * **Pre-trained AI Investment Models** - Information AI and investment advisory AI are live at aivestdao.com, a simple frontend for visualization and code for training both regressors and classifiers. A contract implementing a mean-variance optimization and neural network for predicting best portfolio on chain. Feel free to fair launch your own tokenomic of AI investment models!
