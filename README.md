@@ -3,6 +3,8 @@
 
 ![alt text](logo.jpg){align=center}
 
+<img align="right" width="100" height="100" src="http://www.fillmurray.com/100/100">
+
 * **Pre-trained AI Investment Models** - Information AI and investment advisory AI are live at aivestdao.com, a simple frontend for visualization and code for training both regressors and classifiers. A contract implementing a mean-variance optimization and neural network for predicting best portfolio on chain. Feel free to fair launch your own tokenomic of AI investment models!
 
 * **AlphaAI Model** - Aivest utilizes AI to comprehensively track users' investment behaviors, including acquiring new knowledge, secondary trading, market sentiment analysis, airdrops, etc. Ultimately, it forms a digital profile within the crypto industry for each user.
