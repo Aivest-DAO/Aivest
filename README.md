@@ -31,7 +31,7 @@
 
 * [MarketSenseAI](https://arxiv.org/abs/2401.03737) -  MarketSenseAI is an innovative AI-driven framework for stock analysis and selection. Utilizing the advanced reasoning capabilities of GPT-4, MarketSenseAI effectively analyzes a diverse range of data, including company news, fundamentals, market dynamics, and macroeconomic information.
 
-# Contact us
+# Contact Us
 
 * [https://www.aivestdao.com](https://www.aivestdao.com)
 
