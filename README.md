@@ -1,8 +1,6 @@
 # Introduction of Aivest
 [Aivest](https://www.aivestdao.com) is the First Decentralized Fair Launch App for AI Investment Models. For developers, feel free to hop on our [Discord](https://discord.com/invite/spuZSTUGbc) and reach out!
 
-<img style="display:block;margin:auto" src="logo.jpg" alt="drawing" width="200"/>
-
 <div align="center">
     <img src="logo.jpg" alt="drawing" width="200"/>
 </div>
