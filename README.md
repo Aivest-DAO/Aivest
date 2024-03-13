@@ -1,7 +1,7 @@
 # Introduction of Aivest
 [Aivest](https://www.aivestdao.com) is the First Decentralized Fair Launch App for AI Investment Models. For developers, feel free to hop on our [Discord](https://discord.com/invite/spuZSTUGbc) and reach out!
 
-![alt text](logo.jpg)
+![alt text](logo.jpg#center)
 
 * **Pre-trained AI Investment Models** - Information AI and investment advisory AI are live at aivestdao.com, a simple frontend for visualization and code for training both regressors and classifiers. A contract implementing a mean-variance optimization and neural network for predicting best portfolio on chain. Feel free to fair launch your own tokenomic of AI investment models!
 
