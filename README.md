@@ -35,4 +35,6 @@
 
 * [https://www.aivestdao.com](https://www.aivestdao.com)
 
+* [https://twitter.com/aivestDAO?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor](https://twitter.com/aivestDAO?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+
 * [https://discord.com/invite/spuZSTUGbc](https://discord.com/invite/spuZSTUGbc)
