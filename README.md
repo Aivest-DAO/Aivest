@@ -35,4 +35,6 @@
 
 * [https://www.aivestdao.com](https://www.aivestdao.com)
 
+* [https://twitter.com/aivestDAO](https://twitter.com/aivestDAO)
+
 * [https://discord.com/invite/spuZSTUGbc](https://discord.com/invite/spuZSTUGbc)
