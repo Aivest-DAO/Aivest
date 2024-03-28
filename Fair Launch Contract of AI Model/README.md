@@ -26,3 +26,10 @@ This is a sample project of Artela Aspect.
 
 * [@artela/aspect-tools](https://docs.artela.network/develop/reference/aspect-tool/overview)
 
+
+# Artela AIVESTDAO
+# Token Address
+0x45Fa198b003C4740d0a4bA28a16F023C312747B2
+
+# Factory Address
+0xCf9C4fB2CD4697511ecE9249a8E46B61f59cB215
