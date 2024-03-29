@@ -1,0 +1,39 @@
+.floating {
+    position: fixed;
+    bottom: 10vh;
+    right: 5em;
+}
+
+.card {
+    background-color: #202020;
+    padding: .2em .2em;
+    border-radius: 4px;
+    cursor: pointer;
+    animation: float 2s ease-in-out 0s infinite alternate both;
+}
+
+.mask {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    background-color: #00000010;
+    z-index: 99;
+}
+
+@media (max-width: 600px) {
+    .floating {
+        bottom: 5%;
+        right: 5%;
+    }
+}
+
+@keyframes float {
+    from{
+        transform: translateY(0);
+    }
+    to{
+        transform: translateY(10%);
+    }
+}
