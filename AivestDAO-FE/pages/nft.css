@@ -1,0 +1,164 @@
+.nft-view {
+  display: flex;
+  position: relative;
+  height: 100%;
+  overflow: hidden;
+  justify-content: space-around;
+  gap: 20px;
+  min-height: 750px;
+  overflow: visible;
+}
+
+.nft-select {
+  width: 100px;
+  flex: 1 1 10%;
+  height: 100%;
+}
+
+.nft-info {
+  width: 300px;
+  flex: 1 1 40%;
+}
+
+.nft-details {
+  display: flex;
+  width: 100%;
+  flex: 1 1 70%;
+  flex-wrap: nowrap;
+  gap: 20px;
+}
+
+.bankless-notice {
+  background-color: #000000;
+  height: 100%;
+  padding: 12px;
+}
+
+.bankless-notice .link{
+  text-decoration: underline;
+}
+
+.bankless-notice .link:hover{
+  color: #a0a0a0;
+}
+
+.nft-chat {
+  min-width: 300px;
+  flex: 1 1 60%;
+  height: 100%;
+}
+
+.nft-list {
+  background-color: #000000;
+}
+
+.nft-list,
+.profile-detail {
+  border: solid 1px #000;
+  height: 100%;
+  position: relative;
+}
+
+.chat-view {
+  border: solid 1px #000;
+  height: calc(100% + 36px);
+  position: relative;
+  background-color: #262626;
+  border: none;
+}
+
+.chat-view::after {
+  content: ' ';
+  display: block;
+  width: 100%;
+  height: 36px;
+  position: absolute;
+  bottom: 0;
+  position: absolute;
+  left: 0;
+  background-color: #262626;
+}
+
+@media screen and (max-width:760px) {
+  .chat-view {
+    height: 100vh;
+  }
+}
+
+.profile-detail {
+  padding: 12px 12px;
+  background-color: #000000;
+}
+
+.title {
+  text-align: center;
+  font-size: 1.2em;
+}
+
+.nft-info .row {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.nft-info .stats {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  text-align: center;
+}
+
+.nft-item {
+  text-align: center;
+  border-radius: 4px;
+  background-color: #000000;
+  cursor: pointer;
+  margin-bottom: .5em;
+  border-bottom: solid 3px transparent;
+}
+
+.nft-item:hover,
+.nft-item.selected {
+  background-color: #505050;
+  color: #fff;
+  border-bottom: solid 3px #ffffff;
+}
+
+.sub-title {
+  color: #31B0B5;
+  font-weight: bold;
+}
+
+.stat .num {
+  color: #31B0B5;
+}
+
+@media screen and (max-width:600px) {
+  .nft-view {
+    display: block;
+  }
+
+  .nft-select {
+    width: 100%;
+    height: auto;
+  }
+
+  .nft-info {
+    width: 100%;
+  }
+
+  .nft-details{
+    display: block;
+  }
+
+  .nft-chat {
+    min-width: 100%;
+    width: 100%;
+  }
+
+  .nft-select,
+  .nft-info,
+  .nft-chat {
+    margin-bottom: 1em;
+  }
+}

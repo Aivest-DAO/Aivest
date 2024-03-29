@@ -1,0 +1,9 @@
+.nft-new-modal {
+    .ant-modal-content {
+        background-color: #333;
+        padding: 0;
+        .ant-form-item {
+            margin-bottom: 20px !important;
+        }
+    }
+}

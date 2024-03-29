@@ -1,0 +1,49 @@
+.footer {
+    padding: 42px 0;
+    margin-top: 42px !important;
+    margin-bottom: 42px !important;
+}
+
+.social {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.social-logo {
+    display: flex;
+    gap: 12px;
+}
+
+.media {
+    /* background-color: #FFFFFF; */
+    border-radius: 50%;
+    width: 28px;
+    height: 28px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.media:hover {
+    filter: brightness(0.95);
+}
+
+.media-img {
+    width: 16px;
+    height: 16px;
+}
+
+.copyright {
+    opacity: 0.7;
+    font-family: NotoSansKannada-Medium;
+    font-size: 14px;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    line-height: 22px;
+    font-weight: 400;
+
+    margin-top: 42px;
+}
