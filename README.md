@@ -26,7 +26,7 @@
 
 # Aspect:
 
-"Aspect" here refers to helping different users customize various profit and loss risk conditions. 
+**"Aspect" here refers to helping different users customize various profit and loss risk conditions.**
 
 For example: User A accepts a profit and loss range of "-10%, 20%" for this portfolio, and after a day, User A adjusts the range to "-20%, 20%"; or User B further customizes acceptance of the profit and loss range for this portfolio as "-50%, 50%".
 
@@ -38,7 +38,7 @@ Why Artela？
 
 * In the subsequent development of Aivest, as a Decentralized launch app, we definitely need to rely on foundational infrastructures like Artela Aspect. It can provide elastic block space design and independent block spaces for large-scale, ensuring our platform achieves rapid development through User-generated content (UGC).
 
-The Analytics Aspect brings several valuable features to the Artela Ecosystem:
+**The Analytics Aspect brings several valuable features to the Artela Ecosystem:**
 
 * Informed Decision-Making: The DApp (Which using this project) empowers users and developers to make informed decisions based on detailed analytics. This ensures that actions and strategies are guided by real-time and historical data.
 
