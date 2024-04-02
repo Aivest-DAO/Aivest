@@ -25,7 +25,7 @@
 * Finally, for a more intuitive understanding of the historical performance of this portfolio combination, a line graph comparing its volatility with the index of the cryptocurrency market for the same period is provided.
 
 <div align="center">
-    <img src="demo.png" alt="drawing" width="400"/>
+    <img src="Pics/demo.png" alt="drawing" width="400"/>
 </div>
 
 # Aspect:
