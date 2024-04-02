@@ -18,11 +18,11 @@
 
 # AI investment advisory, DEMO:
 
-According to the transaction history on the blockchain and the fluctuation of past market prices associated with a wallet address, along with factors such as time weighting (where transactions closer to the present carry more weight), frequency of transactions, range of traded currencies, and changes in transaction amounts, an analysis of a user's investment style is conducted.
+* According to the transaction history on the blockchain and the fluctuation of past market prices associated with a wallet address, along with factors such as time weighting (where transactions closer to the present carry more weight), frequency of transactions, range of traded currencies, and changes in transaction amounts, an analysis of a user's investment style is conducted.
 
-Based on this analysis, a suitable portfolio combination is recommended to the user, along with quantifiable data such as monthly return, Sharpe ratio, maximum drawdown, and other metrics.
+* Based on this analysis, a suitable portfolio combination is recommended to the user, along with quantifiable data such as monthly return, Sharpe ratio, maximum drawdown, and other metrics.
 
-Finally, for a more intuitive understanding of the historical performance of this portfolio combination, a line graph comparing its volatility with the index of the cryptocurrency market for the same period is provided.
+* Finally, for a more intuitive understanding of the historical performance of this portfolio combination, a line graph comparing its volatility with the index of the cryptocurrency market for the same period is provided.
 
 # Aspect:
 
@@ -32,21 +32,21 @@ For example: User A accepts a profit and loss range of "-10%, 20%" for this port
 
 Why Artela？
 
-Firstly, we apply Aspect form Artela to prove the extensibility of our Dapp to support various AI investment models launched on-chain in the future. This ensures concurrency without experiencing adverse resource preemption during high user concurrency, which could lead to a non-smooth user experience and significant increases in transaction fees.
+* Firstly, we apply Aspect form Artela to prove the extensibility of our Dapp to support various AI investment models launched on-chain in the future. This ensures concurrency without experiencing adverse resource preemption during high user concurrency, which could lead to a non-smooth user experience and significant increases in transaction fees.
 
-Users ranging from beginner to expert developers can design and issue their own Tokenomics on the Artela chain through Aivest.
+* Users ranging from beginner to expert developers can design and issue their own Tokenomics on the Artela chain through Aivest.
 
-In the subsequent development of Aivest, as a Decentralized launch app, we definitely need to rely on foundational infrastructures like Artela Aspect. It can provide elastic block space design and independent block spaces for large-scale, ensuring our platform achieves rapid development through User-generated content (UGC).
+* In the subsequent development of Aivest, as a Decentralized launch app, we definitely need to rely on foundational infrastructures like Artela Aspect. It can provide elastic block space design and independent block spaces for large-scale, ensuring our platform achieves rapid development through User-generated content (UGC).
 
 The Analytics Aspect brings several valuable features to the Artela Ecosystem:
 
-Informed Decision-Making: The DApp (Which using this project) empowers users and developers to make informed decisions based on detailed analytics. This ensures that actions and strategies are guided by real-time and historical data.
+* Informed Decision-Making: The DApp (Which using this project) empowers users and developers to make informed decisions based on detailed analytics. This ensures that actions and strategies are guided by real-time and historical data.
 
-Optimized User Experience: The analytics DApp allows for the optimization of the user experience. Developers can tailor interfaces and features to align with user preferences and needs.
+* Optimized User Experience: The analytics DApp allows for the optimization of the user experience. Developers can tailor interfaces and features to align with user preferences and needs.
 
-Smart Contract Performance: This insight enables developers to identify areas for improvement, enhance contract efficiency, and ensure the overall robustness of the ecosystem's smart contract infrastructure.
+* Smart Contract Performance: This insight enables developers to identify areas for improvement, enhance contract efficiency, and ensure the overall robustness of the ecosystem's smart contract infrastructure.
 
-Community Engagement: This information can be shared with the community, fostering transparency and trust. Open communication about the ecosystem's performance builds a stronger community and encourages active participation.
+* Community Engagement: This information can be shared with the community, fostering transparency and trust. Open communication about the ecosystem's performance builds a stronger community and encourages active participation.
 
 
 
