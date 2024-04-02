@@ -24,6 +24,10 @@
 
 * Finally, for a more intuitive understanding of the historical performance of this portfolio combination, a line graph comparing its volatility with the index of the cryptocurrency market for the same period is provided.
 
+<div align="center">
+    <img src="demo.png" alt="drawing" width="200"/>
+</div>
+
 # Aspect:
 
 **"Aspect" here refers to helping different users customize various profit and loss risk conditions.**
