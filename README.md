@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="logo.jpg" alt="drawing" width="200"/>
+    <img src="Pics/logo.jpg" alt="drawing" width="200"/>
 </div>
 
 # Introduction of Aivest
