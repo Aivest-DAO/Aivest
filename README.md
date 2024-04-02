@@ -16,7 +16,7 @@
 
 
 
-# AI investment advisory, DEMO:
+# AI investment advisory, DEMO
 
 * According to the transaction history on the blockchain and the fluctuation of past market prices associated with a wallet address, along with factors such as time weighting (where transactions closer to the present carry more weight), frequency of transactions, range of traded currencies, and changes in transaction amounts, an analysis of a user's investment style is conducted.
 
@@ -28,7 +28,7 @@
     <img src="Pics/demo.png" alt="drawing" width="400"/>
 </div>
 
-# Aspect:
+# Aspect
 
 **"Aspect" here refers to helping different users customize various profit and loss risk conditions.**
 
