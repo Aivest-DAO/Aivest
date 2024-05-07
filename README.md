@@ -34,28 +34,6 @@
 
 For example: User A accepts a profit and loss range of "-10%, 20%" for this portfolio, and after a day, User A adjusts the range to "-20%, 20%"; or User B further customizes acceptance of the profit and loss range for this portfolio as "-50%, 50%".
 
-Why Artela？
-
-* Firstly, we apply Aspect form Artela to prove the extensibility of our Dapp to support various AI investment models launched on-chain in the future. This ensures concurrency without experiencing adverse resource preemption during high user concurrency, which could lead to a non-smooth user experience and significant increases in transaction fees.
-
-* Users ranging from beginner to expert developers can design and issue their own Tokenomics on the Artela chain through Aivest.
-
-* In the subsequent development of Aivest, as a Decentralized launch app, we definitely need to rely on foundational infrastructures like Artela Aspect. It can provide elastic block space design and independent block spaces for large-scale, ensuring our platform achieves rapid development through User-generated content (UGC).
-
-**The Analytics Aspect brings several valuable features to the Artela Ecosystem:**
-
-* Informed Decision-Making: The DApp (Which using this project) empowers users and developers to make informed decisions based on detailed analytics. This ensures that actions and strategies are guided by real-time and historical data.
-
-* Optimized User Experience: The analytics DApp allows for the optimization of the user experience. Developers can tailor interfaces and features to align with user preferences and needs.
-
-* Smart Contract Performance: This insight enables developers to identify areas for improvement, enhance contract efficiency, and ensure the overall robustness of the ecosystem's smart contract infrastructure.
-
-* Community Engagement: This information can be shared with the community, fostering transparency and trust. Open communication about the ecosystem's performance builds a stronger community and encourages active participation.
-
-
-
-
-
 
 # Tools and  Papers
 
